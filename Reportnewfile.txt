@@ -1,0 +1,17 @@
+Decryption Key: 3143
+Encryption Key: 95
+phi Value: 3432
+n Value: 3551
+Remainders: 36 7 1 11 
+
+
+Printing out Magic Box algorithm:
+
+       0       0      36       7       1      11
+       0       1      36     253     289    3432
+       1       0       1       7       8      95
+
+
+Original Message:
+=========================================
+Go SU! 

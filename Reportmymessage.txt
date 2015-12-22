@@ -1,0 +1,17 @@
+Decryption Key: 7547
+Encryption Key: 883
+phi Value: 11200
+n Value: 11413
+Remainders: 12 1 2 6 15 3 
+
+
+Printing out Magic Box algorithm:
+
+       0       0      12       1       2       6      15       3
+       0       1      12      13      38     241    3653   11200
+       1       0       1       1       3      19     288     883
+
+
+Original Message:
+=========================================
+Happy Birthday! 
